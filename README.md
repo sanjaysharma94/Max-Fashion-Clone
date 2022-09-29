@@ -1,4 +1,4 @@
-# Max-Fashion-Clo
+# Max-Fashion-Clone
 
 <h3>A website that allows you to shop MAX brand clothing wardrobes.<h3/>
 <h3>Features:<h3/>
